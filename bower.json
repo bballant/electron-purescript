@@ -1,0 +1,28 @@
+{
+  "name": "electron-purescript",
+  "description": "Electron plus PureScript",
+  "main": "main.js",
+  "authors": [
+    "Brian Ballantine"
+  ],
+  "license": "CC0-1.0",
+  "keywords": [
+    "Electron",
+    "quick",
+    "start",
+    "tutorial",
+    "demo"
+  ],
+  "homepage": "https://github.com/bballant/electron-purescript",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "purescript-react-basic": "^6.2.0",
+    "purescript-node-fs": "^5.0.0"
+  }
+}
